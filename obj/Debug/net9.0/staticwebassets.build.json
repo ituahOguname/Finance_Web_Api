@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mFvkDOASwsB1uThuQ4c/LMFANmZg/rmQJ16ueeqwxV4=",
+  "Source": "WEB_API_FINANCE",
+  "BasePath": "_content/WEB_API_FINANCE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
